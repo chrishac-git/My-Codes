@@ -22,4 +22,3 @@ sh install-docker.sh
 
 Echo "saying Hi!"
 docker run hello-world
-done
