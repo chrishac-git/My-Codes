@@ -1,7 +1,9 @@
 # download docker install file and run it!
 # use at your own risk!
 # download this file:
-# curl -fsSl https://
+# curl -fsSl https://raw.githubusercontent.com/chrishac-git/My-Codes/main/Docker-install.sh -o Docker-install.sh
+# run using sh ./Docker-install.sh
+
 #!/bin/sh
 
 # download the script
