@@ -19,6 +19,17 @@
 127.0.0.1	arcus-uswest.amazon.com
 127.0.0.1	arcus-useast.amazon.com
 
+127.0.0.1 ads.roku.com
+127.0.0.1 scribe.roku.com
+127.0.0.1 display.roku.com
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 cloudservices.roku.com
+127.0.0.1 ravm.tv
+127.0.0.1 display.ravm.tv
+127.0.0.1 navigation.sr.roku.com
+127.0.0.1 api2.sr.roku.com
+127.0.0.1 image.roku.com
+
 # end by-chris list
 
 
